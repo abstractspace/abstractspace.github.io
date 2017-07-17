@@ -9,7 +9,8 @@ name: Hunter Long
 description: Electrical Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.github.url}}/images/cantor_dust.jpg
+# avatar: {{ site.github.url}}/images/cantor_dust.jpg
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
