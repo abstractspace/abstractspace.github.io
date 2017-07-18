@@ -5,6 +5,8 @@ comments: true
 ---
 So far so good...
 
+What about equations? Does $x=\frac{1}{2}$ work? 
+What about 
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
