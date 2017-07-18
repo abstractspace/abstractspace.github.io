@@ -8,6 +8,8 @@ So far so good...
 What about equations? Does $$x=\frac{1}{2}$$ work? 
 What about $f(x,y)=2+\phi$
 
+It it hard to see what the updates will look like as it takes ~5-10m to update. 
+
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
