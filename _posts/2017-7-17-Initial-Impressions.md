@@ -2,6 +2,7 @@
 layout: post
 title: Initial Impressions
 comments: true
+usemathjax: true
 ---
 So far so good...
 
@@ -9,6 +10,8 @@ What about equations? Does $$x=\frac{1}{2}$$ work?
 What about $f(x,y)=2+\phi$
 
 It it hard to see what the updates will look like as it takes ~5-10m to update. 
+
+I found the best instructions here: https://alan97.github.io/random/mathjax/
 
 
 {% if page.comments %}
