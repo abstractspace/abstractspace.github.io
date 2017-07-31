@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test
+title: The Theoretical Minimum
 comments: true
 usemathjax: true
 ---
