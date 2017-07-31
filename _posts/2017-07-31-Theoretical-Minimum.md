@@ -1,15 +1,15 @@
+
 ---
 layout: post
-title: The Theoretical Minimum
+title: Theoretical Minimum
 comments: true
 usemathjax: true
 ---
-A much easier way to make posts from my phone is to use termux along with git. 
 
-I just found the website called the Theoretical Minumum. It has a lot of really good lectures on 
-physics by Leonard Susskind. I have watched Feynman's lectures on QED available on Youtube and they 
-left me wanting to know more. I skipped through some of Dr. Susskind's lecture on Quantum Field Theory 
-and learned a lot!
+Now I'm using Termux and git on my phone to make posts. 
+
+I found a website called the Theoretical Minimum and there are a lot of good lectures on physics and 
+quantumn mechanics. 
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
